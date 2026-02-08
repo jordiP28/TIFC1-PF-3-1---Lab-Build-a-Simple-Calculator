@@ -1,5 +1,7 @@
-num1 = int(input())
-num2 = int(input()) 
+operacion = input("Escoge una operacion: ")
+num1 = float(input("Ingresa el primer numero: "))
+num2 = float(input("Ingresa el segundo numero: ")) 
+
 
 suma = num1 + num2
 resta = num1 - num2
@@ -12,3 +14,5 @@ print(resta)
 print(multiplicacion)
 print(division)
 print(modulo)
+
+
