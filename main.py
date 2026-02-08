@@ -1,6 +1,6 @@
-operacion = input("Escoge una operacion: ")
-num1 = float(input("Ingresa el primer numero: "))
-num2 = float(input("Ingresa el segundo numero: ")) 
+num1 = float(input())
+num2 = float(input()) 
+
 
 
 suma = num1 + num2
